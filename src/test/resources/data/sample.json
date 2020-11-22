@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "productId": 1,
+    "version": 1,
+    "entries": [{
+      "username": "user1",
+      "date": "2020-11-19T11:38:26.855+0000",
+      "review": "This is a review"
+    }]
+  },
+  {
+    "id": "2",
+    "productId": 2,
+    "version": 1,
+    "entries": [
+      {
+        "username": "user2",
+        "date": "2020-11-20T15:38:26.855+0000",
+        "review": "This is a review 1"
+      },
+      {
+        "username": "user3",
+        "date": "2020-12-20T15:38:26.855+0000",
+        "review": "This is a review 2"
+      },
+      {
+        "username": "user5",
+        "date": "2020-09-20T15:38:26.855+0000",
+        "review": "This is a review 3"
+      }
+    ]
+  }
+]
